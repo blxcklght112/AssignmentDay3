@@ -1,0 +1,15 @@
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/bin/Debug/net6.0/CSDay3_ClockApp
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/bin/Debug/net6.0/CSDay3_ClockApp.deps.json
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/bin/Debug/net6.0/CSDay3_ClockApp.runtimeconfig.json
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/bin/Debug/net6.0/CSDay3_ClockApp.dll
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/bin/Debug/net6.0/ref/CSDay3_ClockApp.dll
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/bin/Debug/net6.0/CSDay3_ClockApp.pdb
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/obj/Debug/net6.0/CSDay3_ClockApp.csproj.AssemblyReference.cache
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/obj/Debug/net6.0/CSDay3_ClockApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/obj/Debug/net6.0/CSDay3_ClockApp.AssemblyInfoInputs.cache
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/obj/Debug/net6.0/CSDay3_ClockApp.AssemblyInfo.cs
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/obj/Debug/net6.0/CSDay3_ClockApp.csproj.CoreCompileInputs.cache
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/obj/Debug/net6.0/CSDay3_ClockApp.dll
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/obj/Debug/net6.0/ref/CSDay3_ClockApp.dll
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/obj/Debug/net6.0/CSDay3_ClockApp.pdb
+/home/blxcklght112/Desktop/DEV/CSDay3_ClockApp/obj/Debug/net6.0/CSDay3_ClockApp.genruntimeconfig.cache
